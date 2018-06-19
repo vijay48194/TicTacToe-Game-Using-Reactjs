@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  height: 50px;
+  width: 80px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  
+  color: green;
+}
